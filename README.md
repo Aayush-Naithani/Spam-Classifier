@@ -140,9 +140,7 @@ Spam Message
 
 ## 📸 Application Preview
 
-<img width="900" alt="Spam Classifier" src="https://via.placeholder.com/900x450?text=Add+Your+Application+Screenshot">
-
-*(Replace this image with a screenshot of your Streamlit app.)*
+<img width="1323" height="676" alt="image" src="https://github.com/user-attachments/assets/69ca5e17-3a96-4554-8bec-a64f23f3278f" />
 
 ---
 
