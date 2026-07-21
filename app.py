@@ -6,7 +6,8 @@ from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 import string
 
-nltk.download('punkt')
+nltk.download("punkt")
+nltk.download("punkt_tab")
 
 ps = PorterStemmer()
 tv = pickle.load(open("Model/Vectorizer.pkl", "rb"))
