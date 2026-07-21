@@ -8,6 +8,7 @@ import string
 
 nltk.download("punkt")
 nltk.download("punkt_tab")
+nltk.download("stopwords")
 
 ps = PorterStemmer()
 tv = pickle.load(open("Model/Vectorizer.pkl", "rb"))
