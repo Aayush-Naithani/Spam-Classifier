@@ -159,7 +159,6 @@ Spam Message
 **Aayush Naithani**
 
 - GitHub: https://github.com/Aayush-Naithani
-- LinkedIn: *(Add your LinkedIn profile)*
 
 ---
 
